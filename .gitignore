@@ -1,0 +1,15 @@
+node_modules/
+vendor/
+dist/
+build/
+.env
+.wp-paths
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.zip
+.git/
+*.swp
+*~
+.cache/

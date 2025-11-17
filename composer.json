@@ -1,0 +1,14 @@
+{
+  "name": "ihumbak-chat",
+  "description": "WordPress plugin for quick admin communication",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "classmap": [
+      "includes/"
+    ]
+  }
+}

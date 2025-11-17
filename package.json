@@ -1,0 +1,19 @@
+{
+  "name": "ihumbak-chat",
+  "version": "1.0.0",
+  "description": "WordPress plugin for quick admin communication via floating chat widget",
+  "scripts": {
+    "dev": "echo 'No build step required - CSS is already compiled'",
+    "build": "echo 'No build step required - CSS is already compiled'",
+    "watch": "echo 'No build step required - CSS is already compiled'"
+  },
+  "keywords": [
+    "wordpress",
+    "plugin",
+    "chat",
+    "contact"
+  ],
+  "author": "Your Name",
+  "license": "GPL-2.0-or-later",
+  "devDependencies": {}
+}

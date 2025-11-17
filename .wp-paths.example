@@ -1,0 +1,24 @@
+# WordPress Paths Configuration
+# Skopiuj ten plik jako .wp-paths i dostosuj do swoich potrzeb
+
+# LocalWP / Local by Flywheel
+LOCALWP_PATH="/Users/michalstaniecko/Local Sites/mysite/app/public/wp-content/plugins"
+
+# MAMP
+MAMP_PATH="/Applications/MAMP/htdocs/mysite/wp-content/plugins"
+
+# Custom Sites folder
+SITES_PATH="/Users/michalstaniecko/Sites/wordpress/wp-content/plugins"
+
+# Docker
+DOCKER_PATH="/var/www/html/wp-content/plugins"
+
+# Produkcja (tylko do read-only testów!)
+PRODUCTION_PATH="/path/to/production/wp-content/plugins"
+
+# ==========================================
+# Jak użyć:
+# 1. Skopiuj ten plik: cp .wp-paths.example .wp-paths
+# 2. Dostosuj ścieżki do swojego systemu
+# 3. Skrypty mogą odczytać te zmienne
+# ==========================================
